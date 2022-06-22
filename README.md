@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Rafi
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Fluter.
+- 🌱 I’m currently working in Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...    
                     
